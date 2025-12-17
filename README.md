@@ -14,6 +14,9 @@ El objetivo es simple: que aprendas a realizar EDA como un profesional, **sin pe
 
 [![YouTube](https://img.shields.io/badge/YouTube-Descubre_las_Historias_Ocultas_en_tus_Datos_|_Tu_Primer_AnálisisEDA-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/bENhahafSDg?si=ickRov-yMhjupgzD)
 
+[![YouTube](https://img.shields.io/badge/YouTube-Limpia_tus_Datos_Como_un_Profesional_|_Análisis_de_Datos_(EDA)-Parte_2-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/-P9jsyHTqXo?si=_45vSpjrMKUi11HP)
+
+
 
 ---
 
@@ -58,6 +61,8 @@ Haz clic en los archivos `.ipynb` para ver el código o ábrelos directamente en
 ¡Manos a los datos y feliz aprendizaje!
 
 ![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headertwo.png)
+
+
 
 
 
