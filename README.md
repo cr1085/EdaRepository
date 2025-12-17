@@ -16,7 +16,7 @@ El objetivo es simple: que aprendas a realizar EDA como un profesional, **sin pe
 
 [![YouTube](https://img.shields.io/badge/YouTube-Limpia_tus_Datos_Como_un_Profesional_|_Análisis_de_Datos_(EDA)_Parte_2-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/-P9jsyHTqXo?si=_45vSpjrMKUi11HP)
 
-[![YouTube](https://img.shields.io/badge/YouTube-Crea_Gráficos_Impactantes_con_Python_|_Análisis_de_Datos_(EDA)_-_Parte_3-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/TsFLy8rv_V8?si=t9Z1Wn5hEFDPqsDC)
+[![YouTube](https://img.shields.io/badge/YouTube-Crea_Gráficos_Impactantes_con_Python_|_Análisis_de_Datos_(EDA)_Parte_3-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/TsFLy8rv_V8?si=t9Z1Wn5hEFDPqsDC)
 
 
 
