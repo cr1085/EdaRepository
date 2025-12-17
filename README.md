@@ -18,6 +18,7 @@ El objetivo es simple: que aprendas a realizar EDA como un profesional, **sin pe
 
 [![YouTube](https://img.shields.io/badge/YouTube-Crea_Gráficos_Impactantes_con_Python_|_Análisis_de_Datos_(EDA)_Parte_3-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/TsFLy8rv_V8?si=t9Z1Wn5hEFDPqsDC)
 
+[![YouTube](https://img.shields.io/badge/YouTube-Descubre_Patrones_y_Correlaciones_|_Análisis_de_Datos_(EDA)_Parte_4-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/O0uKrilUk2Q?si=sWWxsStA_scX_NLC)
 
 
 ---
