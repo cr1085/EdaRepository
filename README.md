@@ -54,6 +54,15 @@ Haz clic en los archivos `.ipynb` para ver el código o ábrelos directamente en
 
 ---
 
-
-*Este repositorio está pensado para ayudarte a ganar confianza y experiencia real en EDA con Python.*
+* Este repositorio está pensado para ayudarte a ganar confianza y experiencia real en EDA con Python.*
 ¡Manos a los datos y feliz aprendizaje!
+
+![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headertwo.png)
+
+
+
+
+
+
+
+
